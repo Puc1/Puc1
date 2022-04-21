@@ -1,4 +1,4 @@
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Puci7)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Puc1)]()
 
 <!--
 **Puci7/Puci7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
